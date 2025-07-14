@@ -21,8 +21,8 @@ A Streamlit-based web app that scrapes a Reddit user's posts and comments and us
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PranjalAyare/reddit-persona-generator.git
-cd reddit-persona-generator
+git clone https://github.com/PranjalAyare/Reddit_Persona_Generator.git
+cd Reddit_Persona_Generator
 
 2. Install Dependencies
 Make sure you're using Python 3.8 or newer.
